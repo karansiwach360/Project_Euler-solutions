@@ -1,2 +1,3 @@
 # Project_Euler-solutions
-Contains implementations and hints for https://projecteuler.net/ problems.
+Contains implementations and hints for https://projecteuler.net/ problems in IIT Varanasi.
+
