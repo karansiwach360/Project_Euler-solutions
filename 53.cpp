@@ -5,12 +5,9 @@ using namespace std;
 #define rep(i,n)            for(ll i=0;i<n;i++)
 #define hell                1000000007LL
 #define vi                  vector<ll>
-#define vii                 vector< vi >
 #define pb                  push_back
-#define mp                  make_pair
 #define fi                  first
 #define se                  second
-#define pii                 pair<ll,ll>
 #define all(c)              c.begin(),c.end()
 #define sz(c)               c.size()
 ll gcd(ll a, ll b) { return b == 0 ? a : gcd(b, a % b); }
